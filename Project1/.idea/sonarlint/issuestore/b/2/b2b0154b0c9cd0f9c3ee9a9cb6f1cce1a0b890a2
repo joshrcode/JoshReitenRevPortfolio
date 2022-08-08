@@ -1,0 +1,7 @@
+
+
+java:S1319"rThe type of "allResolvedPerManager" should be an interface such as "Map" rather than the implementation "HashMap".(ïãŞÂûÿÿÿÿ
+
+java:S1319"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(§ç„Êÿÿÿÿÿ8ÂñÂŞ¦0
+H
+java:S1128"2Remove this unused import 'models.PendingRequest'.(ÅÜ

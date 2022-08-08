@@ -1,0 +1,23 @@
+
+P
+java:S1141e"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+P
+java:S1141z"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(²áóºşÿÿÿÿ
+R
+java:S3655{"7Call "Optional#isPresent()" before accessing the value.(„×œìıÿÿÿÿ
+a
+java:S1854v"?Remove this useless assignment to local variable "pendingJson".(ÙÅ«úÿÿÿÿ8ß¦©ğ¦0
+b
+java:S1854x"@Remove this useless assignment to local variable "resolvedJson".(ıš îüÿÿÿÿ8ß¦©ğ¦0
+i
+java:S1989n"NHandle the "ResourceDoesNotExistException" thrown here in a "try/catch" block.(èÛıÿÿÿÿ
+R
+java:S1481q"0Remove this unused "pendingJson" local variable.(½â‘Šøÿÿÿÿ8â¦©ğ¦0
+N
+java:S1481r"1Remove this unused "resolvedJson" local variable.(“€©·8â¦©ğ¦0
+N	java:S106t"9Replace this use of System.out or System.err by a logger.(²Ëİê
+€
+java:S1989v"eHandle the following exception that could be thrown by "writeValueAsString": JsonProcessingException.(ÙÅ«úÿÿÿÿ
+‡
+java:S1989x"eHandle the following exception that could be thrown by "writeValueAsString": JsonProcessingException.(ıš îüÿÿÿÿ8Ïòˆğ¦0

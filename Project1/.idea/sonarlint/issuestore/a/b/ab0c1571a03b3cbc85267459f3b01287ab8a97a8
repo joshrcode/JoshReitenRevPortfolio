@@ -1,0 +1,52 @@
+
+a	java:S112å"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+f
+java:S11926"KDefine a constant instead of duplicating this literal "is_manager" 3 times.(Í¥œˆÿÿÿÿÿ
+d
+java:S11925"IDefine a constant instead of duplicating this literal "password" 4 times.(¢¿üÿÿÿÿ
+^
+java:S11923"HDefine a constant instead of duplicating this literal "user_id" 4 times.(·Ûü
+\
+java:S11927"FDefine a constant instead of duplicating this literal "email" 3 times.(¤˜·
+d
+java:S11924"IDefine a constant instead of duplicating this literal "username" 3 times.(¡Çõìùÿÿÿÿ
+L
+java:S1143¡"5Remove this return statement from this finally block.(§¼Éç
+K
+java:S1143£"5Remove this return statement from this finally block.(¸®Ã'
+f
+java:S2095ä"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÒÖ˜ª
+f
+java:S2095µ"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÒÖ˜ª
+m
+java:S2095š"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÒÖ˜ª8‡¢Ñ¦0
+f
+java:S2095‘"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÒÖ˜ª
+e
+java:S2095+"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÒÖ˜ª
+f
+java:S2095Ğ"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÒÖ˜ª
+e
+java:S2095a"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÒÖ˜ª
+f
+java:S2095Â"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÒÖ˜ª
+^
+java:S2583x"CChange this condition so that it does not always evaluate to "true"(ÓÇ¥‘şÿÿÿÿ
+^
+java:S2583B"CChange this condition so that it does not always evaluate to "true"(ÓÇ¥‘şÿÿÿÿ
+h	java:S116"SRename this field "SQLEXMSG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Åˆ„
+7
+java:S1170"!Make this final field static too.(¶Åˆ„
+N	java:S106L"9Replace this use of System.out or System.err by a logger.(–ªò™
+O	java:S106‚"9Replace this use of System.out or System.err by a logger.(–ªò™
+O	java:S106©"9Replace this use of System.out or System.err by a logger.(Ğçé¶
+O	java:S106Ñ"9Replace this use of System.out or System.err by a logger.(Ğçé¶
+E
+java:S1481Ü")Remove this unused "user" local variable.(‰ĞÑÏÿÿÿÿÿ
+O	java:S106ú"9Replace this use of System.out or System.err by a logger.(Ğçé¶
+O	java:S106›"9Replace this use of System.out or System.err by a logger.(–ªò™
+]
+java:S1126 "AReplace this if-then-else statement by a single return statement.(Ğººåşÿÿÿÿ
+T	java:S106¯"9Replace this use of System.out or System.err by a logger.(şñ³Åşÿÿÿÿ
+O	java:S106¾"9Replace this use of System.out or System.err by a logger.(–ªò™
+V	java:S106Ù"9Replace this use of System.out or System.err by a logger.(–ªò™8–¢Ñ¦0

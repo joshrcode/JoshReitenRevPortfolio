@@ -1,0 +1,55 @@
+
+a	java:S112±"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+b
+java:S11922"GDefine a constant instead of duplicating this literal "amount" 5 times.(Àƒˆüşÿÿÿÿ
+a
+java:S11924"KDefine a constant instead of duplicating this literal "extra_info" 5 times.(ßÁÇ¨
+g
+java:S11927"LDefine a constant instead of duplicating this literal "reviewer_id" 3 times.(ñª¸îüÿÿÿÿ
+b
+java:S11926"LDefine a constant instead of duplicating this literal "is_approved" 3 times.(›È‡÷
+f
+java:S11920"KDefine a constant instead of duplicating this literal "request_id" 6 times.(ëı‹’şÿÿÿÿ
+c
+java:S11921"MDefine a constant instead of duplicating this literal "requester_id" 3 times.(·©
+f
+java:S2095Ÿ"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÒÖ˜ª
+e
+java:S2095u"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÒÖ˜ª
+f
+java:S2095œ"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÒÖ˜ª
+f
+java:S2095¿"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÒÖ˜ª
+f
+java:S2095í"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÒÖ˜ª
+m
+java:S2095ü"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÒÖ˜ª8³Íóé¦0
+f
+java:S2095™"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÒÖ˜ª
+e
+java:S2095("OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÒÖ˜ª
+f
+java:S2095Ë"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÒÖ˜ª
+Y
+java:S2583D"CChange this condition so that it does not always evaluate to "true"(ĞşÈØ
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(‘ŞĞùÿÿÿÿ
+N
+java:S1481"3Remove this unused "userRepository" local variable.(ìÆıÍüÿÿÿÿ
+N	java:S106K"9Replace this use of System.out or System.err by a logger.(–ªò™
+O	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(Ğçé¶
+O	java:S106«"9Replace this use of System.out or System.err by a logger.(Ğçé¶
+C
+java:S1481¶"'Remove this unused "pr" local variable.(Ô·¨Ìûÿÿÿÿ
+O	java:S106×"9Replace this use of System.out or System.err by a logger.(Ğçé¶
+C
+java:S1481ã"'Remove this unused "rr" local variable.(ïãùÒşÿÿÿÿ
+O	java:S106Š"9Replace this use of System.out or System.err by a logger.(Ğçé¶
+C
+java:S1481–"'Remove this unused "pr" local variable.(Ô·¨Ìûÿÿÿÿ
+O	java:S106µ"9Replace this use of System.out or System.err by a logger.(Ğçé¶
+C
+java:S1481Á"'Remove this unused "rr" local variable.(ïãùÒşÿÿÿÿ
+O	java:S106ç"9Replace this use of System.out or System.err by a logger.(Ğçé¶
+O	java:S106†"9Replace this use of System.out or System.err by a logger.(–ªò™
+V	java:S106¢"9Replace this use of System.out or System.err by a logger.(–ªò™8ÆÍóé¦0

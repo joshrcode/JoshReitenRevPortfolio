@@ -1,0 +1,9 @@
+
+ˆ
+java:S1319"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(ÆùÂ®ýÿÿÿÿ
+M
+java:S3655A"7Call "Optional#isPresent()" before accessing the value.(±ýµÑ
+O
+java:S2387"9"userRepository" is the name of a field in "UserService".( ØæÒ
+R
+java:S2387"<"requestRepository" is the name of a field in "UserService".(µÏŽ²

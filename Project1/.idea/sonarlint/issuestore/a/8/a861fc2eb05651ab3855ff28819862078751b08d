@@ -1,0 +1,10 @@
+
+r
+java:S2629'"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(¶å•¨
+W
+java:S3457'"AFormat specifiers should be used instead of string concatenation.(¶å•¨
+I
+java:S1128
+",Remove this unused import 'models.Employee'.(Ï‹Œå8âù§Ù¦0
+Q
+java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëÝüÿÿÿÿ8âù§Ù¦0

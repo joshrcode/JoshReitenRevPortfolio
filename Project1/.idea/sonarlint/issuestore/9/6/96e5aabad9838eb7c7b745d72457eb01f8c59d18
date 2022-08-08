@@ -1,0 +1,12 @@
+
+h
+java:S1192k"LDefine a constant instead of duplicating this literal "currentUser" 4 times.(ÿÏü8±¹Ü¦0
+\
+java:S1854k"@Remove this useless assignment to local variable "CURRENT_USER".(ÿÏü8àÍ¹Ü¦0
+M
+java:S1481k"1Remove this unused "CURRENT_USER" local variable.(ÿÏü8áÍ¹Ü¦0
+V	java:S106€"9Replace this use of System.out or System.err by a logger.(Ø¼¢ƒ8–Ò½Ü¦0
+F
+java:S1905†"*Remove this unnecessary cast to "Manager".(˜åâïÿÿÿÿÿ
+G
+java:S1905ˆ"+Remove this unnecessary cast to "Employee".(ı‡ş¤şÿÿÿÿ

@@ -1,0 +1,22 @@
+
+a
+java:S1192L"KDefine a constant instead of duplicating this literal "isApproved" 3 times.(ĞŠÛ²
+P
+java:S1141O"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+P
+java:S1141^"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+h
+java:S3776>"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(üª¼í
+`
+java:S1989Z"JHandle the "MissingParameterException" thrown here in a "try/catch" block.(ğ›È˜
+i
+java:S1989g"NHandle the "ResourceDoesNotExistException" thrown here in a "try/catch" block.(èÛıÿÿÿÿ
+f
+java:S1989j"PHandle the "RequestAlreadyResolvedException" thrown here in a "try/catch" block.(±ø‰Ä
+‚
+java:S1989m"gHandle the following exception that could be thrown by "resolveRequest": ResourceDoesNotExistException.(¶àŠƒùÿÿÿÿ
+I
+java:S1128",Remove this unused import 'models.Employee'.(Ï‹Œå8ó¦°ë¦0
+u
+java:S1128
+"SRemove this unused import 'web.responses.employee.InfoSuccessfullyUpdatedResponse'.(¿Ïæ½ûÿÿÿÿ8ó¦°ë¦0

@@ -1,0 +1,8 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(®Œ®ßþÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(À¯ç°
+V	java:S125"<This block of commented-out lines of code should be removed.(ùÒŸþÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(øœÆZ
+f
+java:S1989"PHandle the following exception that could be thrown by "getWriter": IOException.(›à•©
+Q	java:S1258"<This block of commented-out lines of code should be removed.(Î£¨þ

@@ -1,0 +1,25 @@
+
+K
+java:S1141`"5Extract this nested try block into a separate method.(ƒïäô
+P
+java:S1141c"5Extract this nested try block into a separate method.(Ü¬õ™ÿÿÿÿÿ
+K
+java:S1141f"5Extract this nested try block into a separate method.(ÂâœÁ
+P
+java:S1141m"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+B
+java:S1481V"'Remove this unused "id" local variable.(ùç–—ûÿÿÿÿ
+e
+java:S1989x"JHandle the "InvalidParameterException" thrown here in a "try/catch" block.(Õ‡»ÿÿÿÿÿ
+e
+java:S1128"HRemove this unused import 'com.fasterxml.jackson.databind.ObjectMapper'.(´‘¨™8´Óéí¦0
+H
+java:S1128"+Remove this unused import 'models.Manager'.(‚á¹¼8´Óéí¦0
+J
+java:S1128"(Remove this unused import 'models.User'.(ì¤·ÿÿÿÿÿ8´Óéí¦0
+W
+java:S1128	"5Remove this unused import 'services.EmployeeService'.(•Ãéûùÿÿÿÿ8µÓéí¦0
+s
+java:S1128"VRemove this unused import 'web.responses.manager.RequestSuccessfullyResolvedResponse'.(Á¢¡ï8µÓéí¦0
+]
+java:S1128";Remove this unused import 'javax.servlet.http.HttpServlet'.(û÷Å›ÿÿÿÿÿ8µÓéí¦0
